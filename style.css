@@ -217,7 +217,7 @@ section {
 .review .box-container .box user{
     height: 12rem;
     width: 12rem;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 .address {
